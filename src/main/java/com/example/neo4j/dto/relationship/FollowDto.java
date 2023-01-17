@@ -10,6 +10,7 @@ import lombok.Setter;
 @Getter
 @Setter
 public class FollowDto {
-    private Long following_id;
-    private Long followed_id;
+	private Long following_id;
+	private Long followed_id;
 }
+//teste
